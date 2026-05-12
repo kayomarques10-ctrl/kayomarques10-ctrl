@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" alt="coding gif" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding gif" width="380"  style="margin-top: 40px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## `$ whoami`
 
