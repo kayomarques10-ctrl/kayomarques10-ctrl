@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-<img align="right" alt="coding gif" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding gif" width="375" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 ```python
