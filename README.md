@@ -10,7 +10,7 @@
 ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-### `> Transformando café em código desde [ano] ☕`
+### `> Transformando café em código desde [11111101000] ☕`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+JavaScript+%F0%9F%90%8D;Apaixonado+por+resolver+problemas+%F0%9F%94%A5;Clean+code+%C3%A9+filosofia+de+vida+%E2%9C%8C%EF%B8%8F)
 
