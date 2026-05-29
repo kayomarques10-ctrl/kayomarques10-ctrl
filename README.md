@@ -28,7 +28,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.nome        = "Seu Nome Aqui"
+        self.nome        = "Kayo Marques"
         self.role        = "Full Stack Developer"
         self.stack       = ["Backend", "Frontend", "DB"]
         self.filosofia   = "Code que funciona é bom."
